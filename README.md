@@ -1,7 +1,7 @@
 # Movie Recommender System
 
 This is a Movie Recommender System project that uses a Content-Based approach to suggest movies to users based on their preferences. The project utilizes the IMDB dataset and Kaggle as data sources, and it's built as a Streamlit web application.
-
+.
 <img width="1440" alt="Screenshot 2023-08-28 at 5 21 24 PM" src="https://github.com/newsid2024/Microsoft_project_MovieRecommender/assets/108874631/d65f16d3-e2d5-45cd-b731-258e178232b6">
 <img width="1440" alt="Screenshot 2023-08-28 at 5 21 42 PM" src="https://github.com/newsid2024/Microsoft_project_MovieRecommender/assets/108874631/b8dffe5d-c38f-410c-b9ba-1cc43763e392">
 <img width="1440" alt="Screenshot 2023-08-28 at 5 21 57 PM" src="https://github.com/newsid2024/Microsoft_project_MovieRecommender/assets/108874631/f763c868-a857-408a-8921-1781654ca58e">
